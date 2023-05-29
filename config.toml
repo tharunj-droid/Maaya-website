@@ -7,13 +7,13 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Tharun J"
+  bio = "Tharun J's true identity is unknown. Maybe he is a successful blogger, coder and photographer."
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  description = "Tharun J's Personal blog about everything" # Site description. Used in meta description
+  copyright = "Tharun J" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -22,7 +22,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["post", "about"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
@@ -62,19 +62,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  facebook = "tharun._.j"
-  twitter = "tharun._.j"
+  twitter = "tharunj30"
   instagram = "tharun._.j"
-  linkedin = "tharun._.j"
-  telegram = "tharun._.j"
-  github = "tharun._.j"
-  gitlab = "tharun._.j"
-  bitbucket = "tharun._.j"
+  linkedin = "S J Tharun"
+  github = "tharunj-droid"
   email = "gmail"
 
 # Custom social links
