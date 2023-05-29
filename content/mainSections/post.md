@@ -1,7 +1,7 @@
 ---
-title: "Maaya"
+title: "Shaken not stirred"
 date: "13-06-2023"
-description: "description"
+description: "Example article description"
 categories:
   - "Nirantara"
   - "Panache"
@@ -9,10 +9,9 @@ categories:
 tags:
   - "Classical Dance"
   - "Indo Western Dance"
-  
 menu: main
 thumbnail: "img/placeholder.png"
-lead: "Unleash Your Passion and Talent at Maaya College Fest - Where Creativity Takes Center Stage"
+lead: "Engaging and Informative Posts on Various Topics  "
 comments: false
 authorbox: true
 pager: true
@@ -25,11 +24,11 @@ widgets:
   - "taglist"
 ---
 
-
+The content of your Maaya page goes here.
 
 # Welcome to Maaya College Fest!
 
-![Maaya College Fest Banner]("themes/mainroad/images/DSC_0155.JPG")
+![Maaya College Fest Banner](D:\Tharun\107D5600\DSC_0133.JPG)
 
 Maaya College Fest is an annual extravaganza that brings together students from various disciplines to showcase their talent, creativity, and passion. Join us for a memorable experience filled with excitement, entertainment, and opportunities for growth.
 

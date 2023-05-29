@@ -1,20 +1,19 @@
 ---
 # Common-Defined params
-title: "Example article title"
-date: "2017-08-21"
+title: "About"
+date: "13-06-2023"
 description: "Example article description"
 categories:
   - "Nirantara"
   - "Panache"
   - "Shaken not stirred"
 tags:
-  - "Classical Dance"
-  - "Indo Western Dance"
+
 menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Tharun: A Multifaceted Creative - Photographer, Coder, and Blogger" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
